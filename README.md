@@ -1,6 +1,6 @@
-# breakup_days
+# Breakup_days App
 
-A new Flutter project.
+An amazing Flutter App.
 
 ## Getting Started
 
@@ -14,3 +14,24 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+
+## Installation
+You must install [Flutter](https://flutter.io/)
+
+## Usage
+ Compile app using Flutter.
+
+![Screenshot](ScreenShots/Screenshot_1.png)
+![Screenshot](ScreenShots/Screenshot_2.png)
+![Screenshot](ScreenShots/Screenshot_3.png)
+![Screenshot](ScreenShots/Screenshot_4.png)
+## ScreenShots
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[TuanKhang](https://www.facebook.com/n0th1ngh3r3)
